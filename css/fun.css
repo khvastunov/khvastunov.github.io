@@ -3710,7 +3710,7 @@
     font-style: italic;
     font-weight: inherit}
 .vco-storyjs Q {
-    quotes: '„' '“';
+    quotes: 'вЂћ' 'вЂњ';
     font-style: italic}
 .vco-storyjs blockquote,.vco-storyjs blockquote p {
     font-size: 24px;
@@ -5744,9 +5744,9 @@
 .pink-text.text-accent-2 {
     color: #ff4081 !important}
 .pink.accent-3 {
-    background-color: #f50057 !important}
+    background-color: #2ecc71 !important}
 .pink-text.text-accent-3 {
-    color: #f50057 !important}
+    color: #2ecc71 !important}
 .pink.accent-4 {
     background-color: #c51162 !important}
 .pink-text.text-accent-4 {
@@ -5940,9 +5940,9 @@
 .blue-text.text-lighten-1 {
     color: #42A5F5 !important}
 .blue {
-    background-color: #2196F3 !important}
+    background-color: #2ecc71 !important}
 .blue-text {
-    color: #2196F3 !important}
+    color: #2ecc71 !important}
 .blue.darken-1 {
     background-color: #1E88E5 !important}
 .blue-text.text-darken-1 {

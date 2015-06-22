@@ -13,7 +13,7 @@
     padding: 0 15px;
 }
 
-#intro, #work, #team {padding-top: 4rem;}
+#intro, #news, #team {padding-top: 4rem;}
 
 
 #index-banner {
@@ -43,7 +43,7 @@
     font-style: normal;
     font-weight: 100;
     padding: 0;
-    letter-spacing: normal;
+    letter-spacing: 2px;
 }
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
@@ -63,7 +63,7 @@
 
 .card-content a:hover {color: #2ecc71;}
 
-#work, #team{background: rgb(247, 247, 247);}
+#news, #team{background: rgb(247, 247, 247);}
 
 .text_pink{color:#EF9A9A;}
 
